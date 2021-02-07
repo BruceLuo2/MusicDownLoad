@@ -1,0 +1,13 @@
+E:\Home\.NET桌面应用\MusicDownLoad2.0\MusicDownLoad2.0\bin\Debug\MusicDownLoad2.0.exe.config
+E:\Home\.NET桌面应用\MusicDownLoad2.0\MusicDownLoad2.0\bin\Debug\MusicDownLoad2.0.exe
+E:\Home\.NET桌面应用\MusicDownLoad2.0\MusicDownLoad2.0\bin\Debug\MusicDownLoad2.0.pdb
+E:\Home\.NET桌面应用\MusicDownLoad2.0\MusicDownLoad2.0\obj\Debug\MusicDownLoad2.0.csprojAssemblyReference.cache
+E:\Home\.NET桌面应用\MusicDownLoad2.0\MusicDownLoad2.0\obj\Debug\MusicDownLoad2._0.Properties.Resources.resources
+E:\Home\.NET桌面应用\MusicDownLoad2.0\MusicDownLoad2.0\obj\Debug\MusicDownLoad2.0.csproj.GenerateResource.cache
+E:\Home\.NET桌面应用\MusicDownLoad2.0\MusicDownLoad2.0\obj\Debug\MusicDownLoad2.0.exe
+E:\Home\.NET桌面应用\MusicDownLoad2.0\MusicDownLoad2.0\obj\Debug\MusicDownLoad2.0.pdb
+E:\Home\.NET桌面应用\MusicDownLoad2.0\MusicDownLoad2.0\obj\Debug\MusicDownLoad2._0.MainForm.resources
+E:\Home\.NET桌面应用\MusicDownLoad2.0\MusicDownLoad2.0\obj\Debug\MusicDownLoad2.0.csproj.CopyComplete
+E:\Home\.NET桌面应用\MusicDownLoad2.0\MusicDownLoad2.0\bin\Debug\Newtonsoft.Json.xml
+E:\Home\.NET桌面应用\MusicDownLoad2.0\MusicDownLoad2.0\obj\Debug\MusicDownLoad2._0.ShowImage.resources
+E:\Home\.NET桌面应用\MusicDownLoad2.0\MusicDownLoad2.0\obj\Debug\MusicDownLoad2.0.csproj.Fody.CopyLocal.cache
